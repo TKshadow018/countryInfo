@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Country Info</string>
+    <string name="title">Japan</string>
+    <string name="subtitle">Japan is the 11th most populous country in the world, as well as one of the most densely populated and urbanized. About three-fourths of the country\'s terrain is mountainous, concentrating its population of 126.2 million on narrow coastal plains. Japan is administratively divided into 47 prefectures and traditionally divided into eight regions. The Greater Tokyo Area is the most populous metropolitan area in the world, with more than 37.4 million residents.</string>
+    <string name="title2">England</string>
+    <string name="subtitle2">England is a country that is part of the United Kingdom. It shares land borders with Wales to its west and Scotland to its north. The Irish Sea lies northwest of England and the Celtic Sea to the southwest. England is separated from continental Europe by the North Sea to the east and the English Channel to the south. The country covers five-eighths of the island of Great Britain, which lies in the North Atlantic, and includes over 100 smaller islands, such as the Isles of Scilly and the Isle of Wight. It is the largest country of the British Isles.</string>
+    <string name="title3">China</string>
+    <string name="subtitle3">China,[k] officially the People\'s Republic of China (PRC), is a country in East Asia. It is the world\'s most populous country, with a population of around 1.4 billion in 2019.Covering approximately 9.6 million square kilometres (3.7 million mi2), it is the world\'s third or fourth-largest country by area.[m] Governed solely by the Chinese Communist Party (CCP), the state exercises jurisdiction over 22 provinces,[n] five autonomous regions, four direct-controlled municipalities (Beijing, Tianjin, Shanghai, and Chongqing), and the special administrative regions of Hong Kong and Macau.</string>
+    <string name="details">Details</string>
+    <string name="goBack">Return</string>
+    <string name="shortName">Short Name</string>
+    <string name="countryCode">Calling Codes</string>
+    <string name="region">Region</string>
+    <string name="population">Population</string>
+    <string name="area">Area</string>
+    <string name="gini">Gini Coefficient</string>
+    <string name="map">Map Position</string>
+    <string name="timezone">Timezone</string>
+    <string name="memberOf">Member Of</string>
+    <string name="currencyUsed">Currencies Used</string>
+    <string name="spokenLang">Spoken Languages</string>
+    <string name="borderWith">Share Border With</string>
+    <string name="localName">Local Name</string>
+    <string name="capital">Capital</string>
+</resources>
