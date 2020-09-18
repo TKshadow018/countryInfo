@@ -11,7 +11,7 @@ import tk.a3labgo.countryinfo.databinding.ActivityLauncherBinding
 
 
 class LauncherActivity : AppCompatActivity() {
-    private val splashTimeOut = 5000
+    private val splashTimeOut = 3500
     private lateinit var  topAnimantion: Animation
     private lateinit var  topAnimantion1: Animation
     private lateinit var  topAnimantion2: Animation

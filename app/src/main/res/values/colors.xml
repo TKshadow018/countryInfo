@@ -3,11 +3,12 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
-    <color name="lightGray">#ccc</color>
-    <color name="lightDark">#111</color>
+    <color name="white">#FFFFFF</color>
     <color name="lightWhite">#eee</color>
-    <color name="fullDark">#000</color>
+    <color name="whitish_background">#F2F2F6</color>
+    <color name="lightGray">#ccc</color>
     <color name="lightDarkTea">#CB403D3A</color>
     <color name="fullDarkTea">#323232</color>
+    <color name="lightDark">#111</color>
     <color name="pureDark">#000</color>
 </resources>

@@ -22,4 +22,7 @@
     <string name="borderWith">Share Border With</string>
     <string name="localName">Local Name</string>
     <string name="capital">Capital</string>
+    <string name="company_name">3LabGo</string>
+    <string name="fullname">Full Name</string>
+    <string name="percentage">%</string>
 </resources>

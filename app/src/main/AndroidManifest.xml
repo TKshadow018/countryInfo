@@ -12,16 +12,22 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <!-- Dummy AdMob App ID: ca-app-pub-3940256099942544~3347511713 -->
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-9447458149465385~8408628044" />
+        <activity android:name=".activities.WebViewActivity" android:theme="@style/AppTheme.NoActionBar"/>
         <activity
-            android:theme="@style/AppTheme.NoActionBar"
-            android:name="tk.a3labgo.countryinfo.activities.LauncherActivity">
+            android:name=".activities.LauncherActivity"
+            android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="tk.a3labgo.countryinfo.activities.SpecificCountryActivity" />
-        <activity android:name="tk.a3labgo.countryinfo.activities.HomeActivity">
-        </activity>
+        <activity android:name=".activities.SpecificCountryActivity" />
+        <activity android:name=".activities.HomeActivity"/>
     </application>
+
 </manifest>
